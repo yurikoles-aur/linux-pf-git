@@ -4,7 +4,7 @@
 pkgbase=linux-pf-git
 pkgdesc="Linux pf-kernel (git version)"
 pkgver=5.7.7.r190.g62a6be503ef8
-_kernel_rel=5.7
+_kernel_rel=5.8
 _branch=pf-${_kernel_rel}
 _product="${pkgbase%-git}"
 pkgrel=1
